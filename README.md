@@ -42,7 +42,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/YourUsername/tomato-leaf-disease-detection.git
+git clone https://github.com/sarwat-mumtaz/tomato-leaf-disease-detection.git
 cd tomato-leaf-disease-detection
 Run the Jupyter Notebook Open disease_detection_in_tomato_leaves_using_CNN.ipynb in Jupyter Notebook, and execute the cells to preprocess data, train the model, and evaluate its performance.
 
